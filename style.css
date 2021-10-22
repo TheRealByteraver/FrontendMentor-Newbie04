@@ -32,10 +32,10 @@ body {
 .card {
   background-color: white;
   border-radius: 1rem;
-  -webkit-box-shadow: 0px 0px 50px 20px rgba(0,0,0,0.1); 
-  box-shadow: 0px 0px 50px 20px rgba(0,0,0,0.1);
-  height: 365px;
-  margin: 25vh auto;
+  -webkit-box-shadow: 0px 15px 46px 25px rgba(0,0,0,0.1); 
+  box-shadow: 0px 15px 46px 25px rgba(0,0,0,0.1);
+  height: 385px;
+  margin: 24vh auto;
   overflow: hidden;
   position: relative;
   text-align: center;
