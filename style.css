@@ -7,6 +7,7 @@
 
 html, body {
   height: 100vh;
+  /* height: 1000px; */
   margin: 0;
   padding: 0;
   width: 100%;
@@ -23,6 +24,7 @@ body {
     right 50vw top -75vh,
     left 50vw top 50vh;
     color: hsl(229, 23%, 23%);
+  height: 100%;
   font-family: 'Kumbh Sans', sans-serif;
 }
 
@@ -30,7 +32,7 @@ body {
   background-color: white;
   border-radius: 1rem;
   height: 365px;
-  margin: 30% auto;
+  margin: 25vh auto;
   overflow: hidden;
   position: relative;
   text-align: center;
